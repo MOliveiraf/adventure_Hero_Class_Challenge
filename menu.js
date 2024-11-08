@@ -1,4 +1,3 @@
-// menu.js
 const readline = require("readline");
 const Heroi = require("./Heroi");
 const { validarNome, validarIdade } = require("./validacoes");

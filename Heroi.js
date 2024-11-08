@@ -1,4 +1,3 @@
-// Heroi.js
 class Heroi {
     constructor(nome, idade, tipo) {
         this.nome = nome;

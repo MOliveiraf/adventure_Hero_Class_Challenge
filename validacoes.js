@@ -1,6 +1,3 @@
-// validacoes.js
-
-// Valida se o nome é composto apenas por letras e números, começando com uma letra
 function validarNome(nome) {
     const regexNomeValido = /^[a-zA-Z][a-zA-Z0-9]*$/;
     return regexNomeValido.test(nome);
