@@ -106,9 +106,15 @@ Ao iniciar o programa, o menu principal será exibido, com as seguintes opções
 ------
 ## Possíveis Melhorias
 
-- Novos Tipos de Heróis: Adicionar mais tipos e ataques para tornar o jogo mais interessante.
-- Persistência de Dados: Guardar heróis criados em um banco de dados ou arquivo local.
-- Interface Gráfica: Substituir o menu de linha de comando por uma interface gráfica para tornar o uso mais amigável.
+- Expansão dos Tipos de Heróis: Adicionar mais atributos e categorias de heróis para aumentar a variedade e personalização, tornando a aplicação mais interessante e envolvente.
+- Persistência e Armazenamento: Melhorar a persistência de dados com o uso de banco de dados relacional (PostgreSQL), assegurando que os heróis criados sejam armazenados e acessíveis de forma consistente.
+- Interface Web: Evoluir de uma API para uma aplicação web completa, adicionando uma interface gráfica intuitiva que permita a interação com os heróis de forma mais amigável e visual. Essa interface poderá incluir filtros e buscas avançadas para facilitar o gerenciamento.
+
+
+   **Clone a versão mais recente do projeto utilizando o comando abaixo:**
+   ```bash
+   git clone https://github.com/MOliveiraf/hero-adventure-manager.git
+  
 
 ---
 
